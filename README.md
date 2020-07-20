@@ -1,5 +1,8 @@
 # collections-as-data
-Analysis of NLS collections as data (metadata and OCR-generated text)
+Analysis of NLS collections as data, including metadata and OCR-generated text.
+
+### About
+This repository explores datasets from the National Library of Scotland's Data Foundry using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to [this introduction]<https://glam-workbench.github.io/getting-started/> from Tim Sherratt's GLAM Workbench.
 
 ### Collection 1: Britain and UK Handbooks
 * Owner: National Library of Scotland
