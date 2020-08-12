@@ -1,11 +1,10 @@
 # collections-as-data
-Analysis of NLS collections as data, including metadata and OCR-generated text.
-
-### About
-This repository explores datasets from the National Library of Scotland's Data Foundry using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to Tim Sherratt's GLAM Workbench: https://glam-workbench.github.io/getting-started/
+Exploratory analysis of NLS collections as data, including metadata and digitized text.
 
 To explore these collections in live Jupyter Notebooks, [open them here in Binder](https://mybinder.org/v2/gh/NLS-Digital-Scholarship/collections-as-data/b279687e53ea652eca0d1a2c583238a1baaca89b)
 
+### About
+This repository explores datasets from the National Library of Scotland's Data Foundry using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to Tim Sherratt's GLAM Workbench: https://glam-workbench.github.io/getting-started/
 
 ### Collection 1: Britain and UK Handbooks
 [Visit an exploration of this collection in a static Jupyter Notebook](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Britain_and_UK_Handbooks_as_Data.ipynb)
