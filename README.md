@@ -7,7 +7,7 @@ This repository explores datasets from the National Library of Scotland's Data F
 ### Collection 1: Britain and UK Handbooks
 [Explore this collection in a live Jupyter Notebook](https://mybinder.org/v2/gh/NLS-Digital-Scholarship/collections-as-data/b279687e53ea652eca0d1a2c583238a1baaca89b)
 
-[Visit anexploration of this collection in a static Jupyter Notebook](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Britain_and_UK_Handbooks_as_Data.ipynb)
+[Visit an exploration of this collection in a static Jupyter Notebook](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Britain_and_UK_Handbooks_as_Data.ipynb)
 
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
