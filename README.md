@@ -27,3 +27,11 @@ This repository explores datasets from the National Library of Scotland's Data F
 * Date created: 15/10/2019
 * Rights: Items in this dataset are likely to be free of known copyright restrictions (No Known Copyright - https://rightsstatements.org/page/NKC/1.0/?language=en).
 * Contact: digital.scholarship@nls.uk
+
+### Collection 4: Lewis Grassic Gibbon First Editions
+* Owner: National Library of Scotland
+* Creator: National Library of Scotland
+* Website: https://data.nls.uk/data/digitised-collections/lewis-grassic-gibbon-first-editions/
+* Date created: 15/10/2019
+* Rights: Items in this dataset are free of known copyright and in the public domain.
+* Contact: digital.scholarship@nls.uk
