@@ -5,7 +5,10 @@ Analysis of NLS collections as data, including metadata and OCR-generated text.
 This repository explores datasets from the National Library of Scotland's Data Foundry using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to Tim Sherratt's GLAM Workbench: https://glam-workbench.github.io/getting-started/
 
 ### Collection 1: Britain and UK Handbooks
-* [Explore this collection's Jupyter Notebook in the browser](https://mybinder.org/v2/gh/NLS-Digital-Scholarship/collections-as-data/b279687e53ea652eca0d1a2c583238a1baaca89b)
+[Explore this collection in a live Jupyter Notebook](https://mybinder.org/v2/gh/NLS-Digital-Scholarship/collections-as-data/b279687e53ea652eca0d1a2c583238a1baaca89b)
+
+[Visit anexploration of this collection in a static Jupyter Notebook](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Britain_and_UK_Handbooks_as_Data.ipynb)
+
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: https://data.nls.uk/digitised-collections/britain-uk-handbooks/
