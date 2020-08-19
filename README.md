@@ -49,4 +49,4 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer]()
 * Website: Visit the [NLS Data Foundry](https://data.nls.uk/data/metadata-collections/national-bibliography-of-scotland/)
 * Date created: 30/08/2019
 * Date updated: 06/09/2019
-* Licence: Creative Commons Attribution 4.0 International (CC-BY 4.0), https://creativecommons.org/licenses/by/4.0/
+* Licence: Creative Commons Attribution 4.0 International ([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/))
