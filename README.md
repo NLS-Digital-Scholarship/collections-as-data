@@ -7,7 +7,7 @@ To explore these collections in live Jupyter Notebooks, [open them here in Binde
 This repository explores datasets from the National Library of Scotland's Data Foundry using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to Tim Sherratt's GLAM Workbench: https://glam-workbench.github.io/getting-started/
 
 ### Collection 1: Britain and UK Handbooks
-[Visit an exploration of this collection in a static Jupyter Notebook](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Britain_and_UK_Handbooks_as_Data.ipynb)
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Britain_and_UK_Handbooks_as_Data.ipynb)
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: https://data.nls.uk/digitised-collections/britain-uk-handbooks/
@@ -16,7 +16,7 @@ This repository explores datasets from the National Library of Scotland's Data F
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 2: A Medical History of British India
-[Visit an exploration of this collection in a static Jupyter Notebook](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Medical_History_of_British_India_as_Data.ipynb)
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Medical_History_of_British_India_as_Data.ipynb)
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/
@@ -25,7 +25,7 @@ This repository explores datasets from the National Library of Scotland's Data F
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 3: Ladies Edinburgh Debating Society
-[Visit an exploration of this collection in a static Jupyter Notebook](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Ladies_Edinburgh_Debating_Society_as_Data.ipynb)
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Ladies_Edinburgh_Debating_Society_as_Data.ipynb)
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: https://data.nls.uk/data/digitised-collections/edinburgh-ladies-debating-society/
@@ -34,6 +34,7 @@ This repository explores datasets from the National Library of Scotland's Data F
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 4: Lewis Grassic Gibbon First Editions
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Lewis_Grassic_Gibbon_as_Data.ipynb)
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: https://data.nls.uk/data/digitised-collections/lewis-grassic-gibbon-first-editions/
