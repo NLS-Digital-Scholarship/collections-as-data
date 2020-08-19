@@ -1,10 +1,10 @@
 # collections-as-data
 Exploratory analysis of NLS collections as data, including metadata and digitised text.
 
-To explore these collections in live Jupyter Notebooks, [open them here in Binder](https://mybinder.org/v2/gh/NLS-Digital-Scholarship/collections-as-data/b279687e53ea652eca0d1a2c583238a1baaca89b)
+To explore these collections in live Jupyter Notebooks, [open them here in Binder](https://mybinder.org/v2/gh/NLS-Digital-Scholarship/collections-as-data/b279687e53ea652eca0d1a2c583238a1baaca89b).
 
 ### About
-This repository explores datasets from the National Library of Scotland's Data Foundry using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to [Tim Sherratt's GLAM Workbench:](https://glam-workbench.github.io/getting-started/)
+This repository explores datasets from the National Library of Scotland's Data Foundry using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to [Tim Sherratt's GLAM Workbench](https://glam-workbench.github.io/getting-started/).
 
 ### Collection 1: Britain and UK Handbooks
 Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Britain_and_UK_Handbooks_as_Data.ipynb)
@@ -16,7 +16,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 2: A Medical History of British India
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Medical_History_of_British_India_as_Data.ipynb)
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Medical_History_of_British_India_as_Data.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/2w0t-3f08
@@ -25,7 +25,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 3: Ladies Edinburgh Debating Society
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Ladies_Edinburgh_Debating_Society_as_Data.ipynb)
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Ladies_Edinburgh_Debating_Society_as_Data.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/rqn6-dm40
@@ -34,7 +34,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 4: Lewis Grassic Gibbon First Editions
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Lewis_Grassic_Gibbon_as_Data.ipynb)
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Lewis_Grassic_Gibbon_as_Data.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/a61z-m825
@@ -43,7 +43,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 5: The National Bibliography of Scotland (version 1)
-Explore this collection in a [static Jupyter Notebook with NB Viewer]()
+Explore this collection in a [static Jupyter Notebook with NB Viewer]().
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: Visit the [NLS Data Foundry](https://data.nls.uk/data/metadata-collections/national-bibliography-of-scotland/)
