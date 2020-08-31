@@ -24,7 +24,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Rights: Items in this dataset are free of known copyright and in the public domain.
 * Contact: digital.scholarship@nls.uk
 
-### Collection 3: Ladies Edinburgh Debating Society
+### Collection 3: Edinburgh Ladies' Debating Society
 Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Ladies_Edinburgh_Debating_Society_as_Data.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
@@ -43,7 +43,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 5: The National Bibliography of Scotland (version 1)
-Explore this collection in a [static Jupyter Notebook with NB Viewer]().
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/National_Bibliography_Scotland_as_Data.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: Visit the [NLS Data Foundry](https://data.nls.uk/data/metadata-collections/national-bibliography-of-scotland/)
