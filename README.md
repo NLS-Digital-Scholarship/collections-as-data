@@ -43,7 +43,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 5: The National Bibliography of Scotland (version 1)
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/National_Bibliography_Scotland_as_Data.ipynb).
+Explore this collection [live in Binder](https://gesis.mybinder.org/binder/v2/gh/NLS-Digital-Scholarship/collections-as-data/28337836da8b9d3a2131393fd914cd91e1e9fba6) or in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/National_Bibliography_Scotland_as_Data.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: Visit the [NLS Data Foundry](https://data.nls.uk/data/metadata-collections/national-bibliography-of-scotland/)
