@@ -1,5 +1,5 @@
 # collections-as-data
-Exploratory analysis of NLS [collections as data](https://cerlblog.wordpress.com/2020/08/13/special-collections-as-data-the-national-library-of-scotlands-data-foundry/), including metadata and digitised text.
+Data analysis of NLS [collections as data](https://cerlblog.wordpress.com/2020/08/13/special-collections-as-data-the-national-library-of-scotlands-data-foundry/), including collections of metadata and digitised text.
 
 To explore these collections in live Jupyter Notebooks, [open them here in Binder](https://mybinder.org/v2/gh/NLS-Digital-Scholarship/collections-as-data/b279687e53ea652eca0d1a2c583238a1baaca89b) (please note this may take several minutes to load).
 
