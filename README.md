@@ -1,7 +1,7 @@
 # collections-as-data
 Data analysis of NLS [collections as data](https://cerlblog.wordpress.com/2020/08/13/special-collections-as-data-the-national-library-of-scotlands-data-foundry/), including collections of metadata and digitised text.
 
-To explore these collections in live Jupyter Notebooks, [open them here in Binder](https://mybinder.org/v2/gh/NLS-Digital-Scholarship/collections-as-data/229861e5784c8fe86260f929f36ed226a411e29b) (please note this may take several minutes to load).
+To explore these collections in live Jupyter Notebooks, [open them here in Binder](https://notebooks.gesis.org/binder/v2/gh/NLS-Digital-Scholarship/collections-as-data/474d23ca3454db5e786095b58b00bf0a9321625e) (please note this may take several minutes to load).
 
 ### About
 This repository explores datasets from the National Library of Scotland's [Data Foundry](https://data.nls.uk/) using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to [Tim Sherratt's GLAM Workbench](https://glam-workbench.github.io/getting-started/).
