@@ -25,7 +25,7 @@ cymem==2.0.3
 decorator==4.4.2
 defusedxml==0.6.0
 docutils==0.16
-en-core-web-sm==2.3.1
+# en-core-web-sm==2.3.1
 entrypoints==0.3
 flake8==3.8.3
 gender==0.0.28
