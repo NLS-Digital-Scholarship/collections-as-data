@@ -13,7 +13,7 @@ While creating the Jupyter Notebooks in this repository, the author referenced m
 * Python Software Foundation. (2020) *xml.etree.ElementTree — The ElementTree XML API*. Python 3.8.6 Documentation, The Python Standard Library, Structured Markup Processing Tools. https://docs.python.org/3/library/xml.etree.elementtree.html.
 
 ### Collection 1: Britain and UK Handbooks
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Britain_and_UK_Handbooks_as_Data.ipynb)
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Exploring_Britain_and_UK_Handbooks.ipynb)
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/8pje-tv48
@@ -22,7 +22,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 2: A Medical History of British India
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Medical_History_of_British_India_as_Data.ipynb).
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Exploring_Medical_History_of_British_India.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/2w0t-3f08
@@ -31,7 +31,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 3: Edinburgh Ladies' Debating Society
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Ladies_Edinburgh_Debating_Society_as_Data.ipynb).
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Exploring_Ladies_Edinburgh_Debating_Society.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/rqn6-dm40
@@ -40,7 +40,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 4: Lewis Grassic Gibbon First Editions
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Lewis_Grassic_Gibbon_as_Data.ipynb).
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Exploring_Lewis_Grassic_Gibbon.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/a61z-m825
@@ -49,7 +49,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 5: The National Bibliography of Scotland (version 1)
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/National_Bibliography_Scotland_as_Data.ipynb).
+Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Exploring_National_Bibliography_Scotland.ipynb).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: Visit the [NLS Data Foundry](https://data.nls.uk/data/metadata-collections/national-bibliography-of-scotland/)
