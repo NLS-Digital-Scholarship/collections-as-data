@@ -1,7 +1,7 @@
 # collections-as-data
-Data analysis of NLS [collections as data](https://cerlblog.wordpress.com/2020/08/13/special-collections-as-data-the-national-library-of-scotlands-data-foundry/), including collections of metadata and digitised text.
+Data analysis of NLS [collections as data](https://cerlblog.wordpress.com/2020/08/13/special-collections-as-data-the-national-library-of-scotlands-data-foundry/), including collections of metadata and digitised text.  Visit the National Library of Scotland's [Data Foundry > Tools > Jupyter Notebooks](https://data.nls.uk/tools/jupyter-notebooks/) to learn more about the contents of each Notebook and the data it explores.
 
-  To explore these collections in live Jupyter Notebooks, [open them here in Binder](https://notebooks.gesis.org/binder/v2/gh/NLS-Digital-Scholarship/collections-as-data/8314a1825cc36c358854db206b3a4073acd41921) (please note this may take several minutes to load).
+To explore the collections listed below in live Jupyter Notebooks, [open them here in Binder](https://notebooks.gesis.org/binder/v2/gh/NLS-Digital-Scholarship/collections-as-data/8314a1825cc36c358854db206b3a4073acd41921) (please note this may take several minutes to load).
 
 ### About
 This repository explores datasets from the National Library of Scotland's [Data Foundry](https://data.nls.uk/) using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to [Tim Sherratt's GLAM Workbench](https://glam-workbench.github.io/getting-started/).
@@ -13,7 +13,7 @@ While creating the Jupyter Notebooks in this repository, the author referenced m
 * Python Software Foundation. (2020) *xml.etree.ElementTree — The ElementTree XML API*. Python 3.8.6 Documentation, The Python Standard Library, Structured Markup Processing Tools. https://docs.python.org/3/library/xml.etree.elementtree.html.
 
 ### Collection 1: Britain and UK Handbooks
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Britain_and_UK_Handbooks_as_Data.ipynb)
+Explore this collection in a static or interactive Jupyter Notebook [here](https://data.nls.uk/tools/jupyter-notebooks/exploring-britain-and-uk-handbooks/)
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/8pje-tv48
@@ -22,7 +22,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 2: A Medical History of British India
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Medical_History_of_British_India_as_Data.ipynb).
+Explore this collection in a static or interactive Jupyter Notebook [here](https://data.nls.uk/tools/jupyter-notebooks/exploring-a-medical-history-of-british-india/)
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/2w0t-3f08
@@ -31,7 +31,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 3: Edinburgh Ladies' Debating Society
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Ladies_Edinburgh_Debating_Society_as_Data.ipynb).
+Explore this collection in a static or interactive Jupyter Notebook [here](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/rqn6-dm40
@@ -40,7 +40,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 4: Lewis Grassic Gibbon First Editions
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/Lewis_Grassic_Gibbon_as_Data.ipynb).
+Explore this collection in a static or interactive Jupyter Notebook [here](https://data.nls.uk/tools/jupyter-notebooks/exploring-lewis-grassic-gibbon-first-editions/).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * DOI: https://doi.org/10.34812/a61z-m825
@@ -49,7 +49,7 @@ Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nb
 * Contact: digital.scholarship@nls.uk
 
 ### Collection 5: The National Bibliography of Scotland (version 1)
-Explore this collection in a [static Jupyter Notebook with NB Viewer](https://nbviewer.jupyter.org/github/NLS-Digital-Scholarship/collections-as-data/blob/main/National_Bibliography_Scotland_as_Data.ipynb).
+Explore this collection in a static or interactive Jupyter Notebook [here](https://data.nls.uk/tools/jupyter-notebooks/exploring-the-national-bibliography-of-scotland/).
 * Owner: National Library of Scotland
 * Creator: National Library of Scotland
 * Website: Visit the [NLS Data Foundry](https://data.nls.uk/data/metadata-collections/national-bibliography-of-scotland/)
