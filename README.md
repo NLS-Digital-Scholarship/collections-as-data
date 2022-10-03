@@ -3,14 +3,26 @@ Data analysis of NLS [collections as data](https://cerlblog.wordpress.com/2020/0
 
 To explore the collections listed below in live Jupyter Notebooks, [open them here in Binder](https://notebooks.gesis.org/binder/v2/gh/NLS-Digital-Scholarship/collections-as-data/8314a1825cc36c358854db206b3a4073acd41921) (please note this may take several minutes to load).
 
+To copy and work with the Jupyter Notebooks on your own machine, see [Setup](Setup).
+
+### Table of Contents
+* [Overview](Overview)
+* [Datasets](Datasets)
+* [Setup](Setup)
+* [Suggested Citations](Suggested-Citations)
+
+## Overview
+
 ### About
 This repository explores datasets from the National Library of Scotland's [Data Foundry](https://data.nls.uk/) using Jupyter Notebooks.  The Notebooks provide introductions to NLS collection data suitable for those with or without experience programming.  For an introduction to using Jupyter Notebooks, please refer to [Tim Sherratt's GLAM Workbench](https://glam-workbench.github.io/getting-started/).
 
-### Citations
+### References
 While creating the Jupyter Notebooks in this repository, the author referenced material from the sources below.  The author sought to use the material for learning only, applying code taught in the material to NLS collections and inform the explanations of the code, but not copy the code or code explanations. If you feel the citations below (and in each Noteook) do not provide adequate attribution for your work, please contact digital.scholarship@nls.uk.
 * Alex, Beatrice and Llewellyn, Clare. (2020) *Library Carpentry: Text & Data Mining*. Centre for Data, Culture & Society, University of Edinburgh. http://librarycarpentry.org/lc-tdm/.
 * Bird, Steven and Klein, Ewan and Loper, Edward. (2019) *Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit*.  O'Reilly Media. 978-0-596-51649-9. https://www.nltk.org/book/.
 * Python Software Foundation. (2020) *xml.etree.ElementTree — The ElementTree XML API*. Python 3.8.6 Documentation, The Python Standard Library, Structured Markup Processing Tools. https://docs.python.org/3/library/xml.etree.elementtree.html.
+
+## Datasets
 
 ### Collection 1: Britain and UK Handbooks
 Explore this collection in a static or interactive Jupyter Notebook [here](https://data.nls.uk/tools/jupyter-notebooks/exploring-britain-and-uk-handbooks/)
@@ -56,3 +68,51 @@ Explore this collection in a static or interactive Jupyter Notebook [here](https
 * Date created: 30/08/2019
 * Date updated: 06/09/2019
 * Licence: Creative Commons Attribution 4.0 International ([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+## Setup
+
+Clone the Git repository and then run the following lines of code for your operating system (OS)
+
+**For Mac and Linux:**
+
+```
+# Install (if not yet installed) the Python venv (virtual environment) module
+python3 -m pip install --user virtualenv
+
+# Create a virtual environment (you can change 'env' to a name of your choice)
+python3 -m venv env
+
+# Activate the environment
+source env/bin/activate
+
+# Install the required packages
+python3 -m pip install -r requirements.txt
+```
+
+**For Windows:**
+
+```
+# Install (if not yet installed) the Python venv (virtual environment) module
+py -m pip install --user virtualenv
+
+# Create a virtual environment (you can change 'env' to a name of your choice)
+py -m venv env
+
+# Activate the environment
+.\env\Scripts\activate
+
+# Install the required packages
+py -m pip install -r requirements.txt
+```
+
+For additional guidance on Python virtual environments with pip, please visit [Installing packages using pip and virtual environments](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
+
+## Suggested Citations
+
+If you find any of these Notebooks useful in your work, we would appreciate your citation of them.  Suggested citations for each Notebook are:
+
+* National Library of Scotland. *Exploring A Medical History of British India.* National Library of Scotland, 2020. https://doi.org/10.34812/k2c4-7a56
+* National Library of Scotland. *Exploring Lewis Grassic Gibbon First Editions.* National Library of Scotland, 2020. https://doi.org/10.34812/gq6w-6e91
+* National Library of Scotland. *Exploring The National Bibliography of Scotland.* National Library of Scotland, 2020. https://doi.org/10.34812/an7d-xk61
+* National Library of Scotland. *Exploring Britain and UK Handbooks.* National Library of Scotland, 2020. https://doi.org/10.34812/ex5e-rs36
+* National Library of Scotland. *Exploring Edinburgh Ladies’ Debating Society.* National Library of Scotland, 2020. https://doi.org/10.34812/0d3w-zt02
