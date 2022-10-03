@@ -3,13 +3,13 @@ Data analysis of NLS [collections as data](https://cerlblog.wordpress.com/2020/0
 
 To explore the collections listed below in live Jupyter Notebooks, [open them here in Binder](https://notebooks.gesis.org/binder/v2/gh/NLS-Digital-Scholarship/collections-as-data/8314a1825cc36c358854db206b3a4073acd41921) (please note this may take several minutes to load).
 
-To copy and work with the Jupyter Notebooks on your own machine, see [Setup](Setup).
+To copy and work with the Jupyter Notebooks on your own machine, see [Setup](#setup).
 
 ### Table of Contents
-* [Overview](Overview)
-* [Datasets](Datasets)
-* [Setup](Setup)
-* [Suggested Citations](Suggested-Citations)
+* [Overview](#overview)
+* [Datasets](#datasets)
+* [Setup](#setup)
+* [Suggested Citations](#suggested-citations)
 
 ## Overview
 
