@@ -71,7 +71,7 @@ Explore this collection in a static or interactive Jupyter Notebook [here](https
 
 ## Setup
 
-Clone the Git repository and then run the following lines of code for your operating system (OS)
+To clone the Git repository and run the Jupyter Notebooks on your own machine, follow the steps below according to your operating system. 
 
 **For Mac and Linux:**
 
@@ -85,8 +85,19 @@ python3 -m venv env
 # Activate the environment
 source env/bin/activate
 
+# Clone the repository
+git clone https://github.com/NLS-Digital-Scholarship/collections-as-data.git
+
+# Enter and initialize the repository
+cd collections-as-data
+git init
+
 # Install the required packages
 python3 -m pip install -r requirements.txt
+
+# When you're finished, deactivate the environment (simply activate it once
+# more and enter the repository if when you wish to resume your work)
+deactivate
 ```
 
 **For Windows:**
@@ -101,8 +112,19 @@ py -m venv env
 # Activate the environment
 .\env\Scripts\activate
 
+# Clone the repository
+git clone https://github.com/NLS-Digital-Scholarship/collections-as-data.git
+
+# Enter and initialize the repository
+cd collections-as-data
+git init
+
 # Install the required packages
 py -m pip install -r requirements.txt
+
+# When you're finished, deactivate the environment (simply activate it once
+# more and enter the repository if when you wish to resume your work)
+deactivate
 ```
 
 For additional guidance on Python virtual environments with pip, please visit [Installing packages using pip and virtual environments](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
